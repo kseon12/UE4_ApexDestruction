@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E4C35610-4EC2-EF3A-662D-C385F725B132}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Test_PingleStudio",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		}
+	]
+}
